@@ -37,6 +37,9 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;   
 }
+.header-contacts {
+     font-style: normal;
+}
 .header-menu:hover,
 .header-menu:focus {
     color: #404bbf;
