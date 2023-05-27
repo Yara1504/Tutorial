@@ -117,13 +117,14 @@ background-color: var(--hero-background);
 .projects-img {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.5;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--dark);
 }
 .program {
     color: var(--text);
     letter-spacing: 0.02em;
+    line-height: 1.5;
 }
 
 footer {
