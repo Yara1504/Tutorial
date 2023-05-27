@@ -116,7 +116,7 @@ p {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     }
-.team-img {
+.worker {
     background-color: #FFFFFF;
 }
 .description {
@@ -128,7 +128,6 @@ p {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-
 }
 
 footer {
