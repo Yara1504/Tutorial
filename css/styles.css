@@ -1,0 +1,88 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+    background: #FFFFFF;
+    font-size: 16px;
+}
+.logo {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+    }
+.header span{
+    color: #2E2F42;
+}
+.footer span{
+    color: #F4F4FD
+    }
+a {
+    text-decoration: none;
+}
+.header-menu {
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+}
+ul {
+    list-style-type: none;
+}
+.header-contacts {
+    line-height: 1.5;
+    color: #434455;
+}
+.basis {
+background-color: #2E2F42;
+}
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.main-btn {
+    background: #4D5AE5;
+    color: #FFFFFF
+}
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.team {
+    background-color: #F4F4FD;
+    }
+footer {
+    background-color: #2E2F42;
+}
+.footer-text {
+    line-height: 1,5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+.main-button {
+    background: #F4F4FD;
+    color: #4D5AE5;
+}
+.main-button:hover,
+.main-button:focus {
+    background: #404BBF;
+    color: #FFFFFF;
+}
